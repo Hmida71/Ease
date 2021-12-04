@@ -11,7 +11,7 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages). 
 -->
 
-# Ease
+# Ease 🐱‍👤
 
 This packa is for anything that can be reusable in flutter like custom widgets 🟥, animations 🌟and more.
 
